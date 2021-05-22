@@ -1,4 +1,3 @@
-### David Beattie
 #### Research Engineer (currently @ Ultraleap)
 ----
 
